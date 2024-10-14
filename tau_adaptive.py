@@ -8,15 +8,6 @@ from matplotlib.colors import Normalize, BoundaryNorm
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 
-"""
-Create Your Own Lattice Boltzmann Simulation (With Python)
-Philip Mocz (2020) Princeton Univeristy, @PMocz
-
-Simulate flow past cylinder
-for an isothermal fluid
-
-"""
-
 #def poisson_solve(rho, conductivity, Nx, Ny):
 #    # Fourier transform the charge density
 #    rho_hat = fft2(rho)
